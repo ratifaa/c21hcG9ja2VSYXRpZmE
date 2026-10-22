@@ -12,132 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ratifa =====
-[1]Ratifa      |09:08:57 | 21-10-2026| login OK @ratiifaa | score=1570 rank=4542
-[1]Ratifa      |09:08:57 | 21-10-2026| serverTime=2026-10-21T09:08:57.000Z local=2026-10-21T09:08:57.904Z
+[1]Ratifa      |08:17:07 | 22-10-2026| login OK @ratiifaa | score=1640 rank=4409
+[1]Ratifa      |08:17:07 | 22-10-2026| serverTime=2026-10-22T08:17:07.000Z local=2026-10-22T08:17:07.254Z
 --> [1]Ratifa menjalankan: Claim Daily
-[1]Ratifa      |09:08:59 | 21-10-2026| daily: OK +10 poin score=1580
---> [1]Ratifa menjalankan: Auto All Tasks (6 pending)
-[1]Ratifa      |09:09:01 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ratiifaa/status/2112833050333402673
-[1]Ratifa      |09:09:01 | 21-10-2026| delay 10s...
-[1]Ratifa      |09:09:16 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ratiifaa/status/2112832937678744336
-[1]Ratifa      |09:09:16 | 21-10-2026| delay 10s...
-[1]Ratifa      |09:09:29 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ratiifaa/status/2112833107821756882
-[1]Ratifa      |09:09:29 | 21-10-2026| delay 10s...
-[1]Ratifa      |09:09:42 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ratiifaa/status/2112833131507541179
-[1]Ratifa      |09:09:42 | 21-10-2026| delay 10s...
-[1]Ratifa      |09:09:54 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ratiifaa/status/2112833435895760584
-[1]Ratifa      |09:09:54 | 21-10-2026| delay 10s...
-[1]Ratifa      |09:10:07 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Ratifa      |09:10:07 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ratifa      |09:10:09 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/ratiifaa/status/2112833458524257178
+[1]Ratifa      |08:17:08 | 22-10-2026| daily: OK +10 poin score=1650
+--> [1]Ratifa menjalankan: Auto All Tasks (7 pending)
+[1]Ratifa      |08:17:10 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182237984608340
+[1]Ratifa      |08:17:10 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:17:21 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182619573640847
+[1]Ratifa      |08:17:21 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:17:33 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182445698249581
+[1]Ratifa      |08:17:33 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:17:45 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182507950453063
+[1]Ratifa      |08:17:45 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:17:56 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182543780261989
+[1]Ratifa      |08:17:56 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:18:08 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182772466760349
+[1]Ratifa      |08:18:08 | 22-10-2026| delay 10s...
+[1]Ratifa      |08:18:20 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ratiifaa/status/2113182557888912073
+[1]Ratifa      |08:18:20 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ratifa      |08:18:21 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/ratiifaa/status/2113182631389326299
 --> [1]Ratifa menjalankan: Watch Anime
-[1]Ratifa      |09:10:10 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ratifa      |09:10:10 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Ratifa      |09:10:13 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Ratifa      |09:10:20 | 21-10-2026| watch oshi-captains-hat: 5% (5.32/92.00s)
-[1]Ratifa      |09:10:26 | 21-10-2026| watch oshi-captains-hat: 12% (11.57/92.00s)
-[1]Ratifa      |09:10:32 | 21-10-2026| watch oshi-captains-hat: 18% (17.19/92.00s)
-[1]Ratifa      |09:10:39 | 21-10-2026| watch oshi-captains-hat: 25% (23.05/92.00s)
-[1]Ratifa      |09:10:45 | 21-10-2026| watch oshi-captains-hat: 31% (28.94/92.00s)
-[1]Ratifa      |09:10:52 | 21-10-2026| watch oshi-captains-hat: 37% (34.62/92.00s)
-[1]Ratifa      |09:10:58 | 21-10-2026| watch oshi-captains-hat: 44% (40.80/92.00s)
-[1]Ratifa      |09:11:04 | 21-10-2026| watch oshi-captains-hat: 50% (46.37/92.00s)
-[1]Ratifa      |09:11:12 | 21-10-2026| watch oshi-captains-hat: 56% (52.04/92.00s)
-[1]Ratifa      |09:11:19 | 21-10-2026| watch oshi-captains-hat: 63% (58.47/92.00s)
-[1]Ratifa      |09:11:25 | 21-10-2026| watch oshi-captains-hat: 70% (64.72/92.00s)
-[1]Ratifa      |09:11:34 | 21-10-2026| watch oshi-captains-hat: 76% (70.80/92.00s)
-[1]Ratifa      |09:11:40 | 21-10-2026| watch oshi-captains-hat: 83% (77.08/92.00s)
-[1]Ratifa      |09:11:47 | 21-10-2026| watch oshi-captains-hat: 90% (83.69/92.00s)
-[1]Ratifa      |09:11:47 | 21-10-2026| watch oshi-captains-hat: COMPLETED (83.69/92.00s)
-[1]Ratifa      |09:11:52 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Ratifa      |09:11:54 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Ratifa      |09:12:00 | 21-10-2026| watch oshi-rainbow-star: 6% (5.35/86.00s)
-[1]Ratifa      |09:12:06 | 21-10-2026| watch oshi-rainbow-star: 12% (10.85/86.00s)
-[1]Ratifa      |09:12:13 | 21-10-2026| watch oshi-rainbow-star: 19% (16.67/86.00s)
-[1]Ratifa      |09:12:20 | 21-10-2026| watch oshi-rainbow-star: 26% (22.45/86.00s)
-[1]Ratifa      |09:12:26 | 21-10-2026| watch oshi-rainbow-star: 33% (28.75/86.00s)
-[1]Ratifa      |09:12:34 | 21-10-2026| watch oshi-rainbow-star: 40% (34.65/86.00s)
-[1]Ratifa      |09:12:40 | 21-10-2026| watch oshi-rainbow-star: 47% (41.11/86.00s)
-[1]Ratifa      |09:12:47 | 21-10-2026| watch oshi-rainbow-star: 55% (47.33/86.00s)
-[1]Ratifa      |09:12:53 | 21-10-2026| watch oshi-rainbow-star: 61% (53.21/86.00s)
-[1]Ratifa      |09:13:00 | 21-10-2026| watch oshi-rainbow-star: 68% (58.95/86.00s)
-[1]Ratifa      |09:13:07 | 21-10-2026| watch oshi-rainbow-star: 75% (64.70/86.00s)
-[1]Ratifa      |09:13:13 | 21-10-2026| watch oshi-rainbow-star: 82% (70.92/86.00s)
-[1]Ratifa      |09:13:20 | 21-10-2026| watch oshi-rainbow-star: 89% (77.07/86.00s)
-[1]Ratifa      |09:13:26 | 21-10-2026| watch oshi-rainbow-star: 96% (82.78/86.00s)
-[1]Ratifa      |09:13:26 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (82.78/86.00s)
-[1]Ratifa      |09:13:31 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Ratifa      |09:13:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Ratifa      |09:13:40 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.34/87.00s)
-[1]Ratifa      |09:13:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (11.19/87.00s)
-[1]Ratifa      |09:13:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (17.01/87.00s)
-[1]Ratifa      |09:13:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (22.66/87.00s)
-[1]Ratifa      |09:14:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 32% (28.27/87.00s)
-[1]Ratifa      |09:14:12 | 21-10-2026| watch oshi-rainbow-lighthouse: 39% (34.28/87.00s)
-[1]Ratifa      |09:14:19 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.12/87.00s)
-[1]Ratifa      |09:14:25 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.99/87.00s)
-[1]Ratifa      |09:14:31 | 21-10-2026| watch oshi-rainbow-lighthouse: 59% (51.82/87.00s)
-[1]Ratifa      |09:14:38 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.53/87.00s)
-[1]Ratifa      |09:14:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 73% (63.62/87.00s)
-[1]Ratifa      |09:14:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 80% (69.61/87.00s)
-[1]Ratifa      |09:14:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 87% (76.08/87.00s)
-[1]Ratifa      |09:15:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 94% (82.15/87.00s)
-[1]Ratifa      |09:15:05 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.15/87.00s)
-[1]Ratifa      |09:15:10 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Ratifa      |09:15:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Ratifa      |09:15:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.44/181.00s)
-[1]Ratifa      |09:15:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.40/181.00s)
-[1]Ratifa      |09:15:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.21/181.00s)
-[1]Ratifa      |09:15:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 13% (23.56/181.00s)
-[1]Ratifa      |09:15:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.39/181.00s)
-[1]Ratifa      |09:15:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (35.74/181.00s)
-[1]Ratifa      |09:15:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (41.49/181.00s)
-[1]Ratifa      |09:16:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 26% (47.46/181.00s)
-[1]Ratifa      |09:16:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (53.24/181.00s)
-[1]Ratifa      |09:16:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (59.56/181.00s)
-[1]Ratifa      |09:16:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.26/181.00s)
-[1]Ratifa      |09:16:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.51/181.00s)
-[1]Ratifa      |09:16:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.78/181.00s)
-[1]Ratifa      |09:16:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.67/181.00s)
-[1]Ratifa      |09:16:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.65/181.00s)
-[1]Ratifa      |09:17:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.49/181.00s)
-[1]Ratifa      |09:17:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.86/181.00s)
-[1]Ratifa      |09:17:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (108.08/181.00s)
-[1]Ratifa      |09:17:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 63% (114.03/181.00s)
-[1]Ratifa      |09:17:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.14/181.00s)
-[1]Ratifa      |09:17:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (126.72/181.00s)
-[1]Ratifa      |09:17:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.79/181.00s)
-[1]Ratifa      |09:17:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.50/181.00s)
-[1]Ratifa      |09:17:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.09/181.00s)
-[1]Ratifa      |09:18:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.68/181.00s)
-[1]Ratifa      |09:18:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.58/181.00s)
-[1]Ratifa      |09:18:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (164.34/181.00s)
-[1]Ratifa      |09:18:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.34/181.00s)
+[1]Ratifa      |08:18:22 | 22-10-2026| watch: semua video sudah completed
 --> [1]Ratifa menjalankan: Read Article
-[1]Ratifa      |09:18:17 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Ratifa      |09:18:18 | 21-10-2026| mint eligibility: {"userId":"1748188733789360128","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratifaranisa","status":"submitted","revision":"2ffd9848-36c7-4331-8e9e-dc4a24e6f
-[1]Ratifa      |09:18:25 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ratifa      |08:18:23 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ratifa      |08:18:23 | 22-10-2026| mint eligibility: {"userId":"1748188733789360128","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratifaranisa","status":"submitted","revision":"2ffd9848-36c7-4331-8e9e-dc4a24e6f
+[1]Ratifa      |08:18:29 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ratifa      |08:18:37 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Ratifa menjalankan: Quiz Anime
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Ratifa      |09:18:28 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Ratifa      |08:18:39 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Ratifa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ratifa      |09:18:30 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ratifa      |09:18:31 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratifa      |09:18:31 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratifa      |09:18:31 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratifa      |08:18:41 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ratifa      |08:18:42 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratifa      |08:18:42 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratifa      |08:18:42 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratifa menjalankan: Claim Missions
-[1]Ratifa      |09:18:31 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratifa      |09:18:31 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratifa      |09:18:31 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratifa      |08:18:42 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratifa      |08:18:42 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratifa      |08:18:42 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratifa menjalankan: Check Eligibility
 
 --- eligibility [1]Ratifa ---
-  @ratiifaa | score=1570 rank=4542
-  tasks    [###################-] 74/80
+  @ratiifaa | score=1640 rank=4409
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -148,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ratifa menjalankan: Read Manga
-[1]Ratifa      |09:18:37 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Ratifa      |08:18:47 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ratifa menjalankan: Get Gift
-[1]Ratifa      |09:18:39 | 21-10-2026| gift: 0/4 belum diterima
+[1]Ratifa      |08:18:47 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Ratifa menjalankan: Setup Profile
-[1]Ratifa      |09:18:40 | 21-10-2026| profile: bio="https://x.com/ratiifaa" fav=mony rewardAt=1791689911
-[1]Ratifa      |09:18:40 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Ratifa      |08:18:48 | 22-10-2026| profile: bio="https://x.com/ratiifaa" fav=mony rewardAt=1791689911
+[1]Ratifa      |08:18:48 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ratifa menjalankan: Bind Wallet
-[1]Ratifa      |09:18:40 | 21-10-2026| wallet: sudah terikat 3oTPxHc22h... (solana)
+[1]Ratifa      |08:18:48 | 22-10-2026| wallet: sudah terikat 3oTPxHc22h... (solana)
 
 == RINGKASAN ==
-- Ratifa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ratifa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
