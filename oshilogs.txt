@@ -12,35 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ratifa =====
-[1]Ratifa      |09:36:00 | 25-10-2026| login OK @ratiifaa | score=2050 rank=3825
-[1]Ratifa      |09:36:00 | 25-10-2026| serverTime=2026-10-25T09:35:59.000Z local=2026-10-25T09:36:00.267Z
+[1]Ratifa      |10:47:34 | 26-10-2026| login OK @ratiifaa | score=2070 rank=3819
+[1]Ratifa      |10:47:34 | 26-10-2026| serverTime=2026-10-26T10:47:34.000Z local=2026-10-26T10:47:34.751Z
 --> [1]Ratifa menjalankan: Claim Daily
-[1]Ratifa      |09:36:01 | 25-10-2026| daily: OK +10 poin score=2060
---> [1]Ratifa menjalankan: Auto All Tasks (1 pending)
-[1]Ratifa      |09:36:02 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211423827431117 | proof=https://x.com/ratiifaa/status/2114289529806703153
-[1]Ratifa      |09:36:02 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ratifa      |09:36:04 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114238274311176 | proof=https://x.com/ratiifaa/status/2114289448211646504
+[1]Ratifa      |10:47:35 | 26-10-2026| daily: OK +10 poin score=2080
+--> [1]Ratifa menjalankan: Auto All Tasks (9 pending)
+[1]Ratifa      |10:47:37 | 26-10-2026| [1/9] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114669940464400042
+[1]Ratifa      |10:47:37 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:47:49 | 26-10-2026| [2/9] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114669868883362227
+[1]Ratifa      |10:47:49 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:48:01 | 26-10-2026| [3/9] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114670061534611955
+[1]Ratifa      |10:48:01 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:48:13 | 26-10-2026| [4/9] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114669952446062539
+[1]Ratifa      |10:48:13 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:48:25 | 26-10-2026| [5/9] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538
+[1]Ratifa      |10:48:25 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:48:38 | 26-10-2026| [6/9] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114669982324577625
+[1]Ratifa      |10:48:38 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:48:50 | 26-10-2026| [7/9] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114670285512719076
+[1]Ratifa      |10:48:50 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:49:02 | 26-10-2026| [8/9] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114670199469795955
+[1]Ratifa      |10:49:02 | 26-10-2026| delay 10s...
+[1]Ratifa      |10:49:14 | 26-10-2026| [9/9] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/ratiifaa/status/2114670409232984049
+[1]Ratifa      |10:49:14 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ratifa      |10:49:16 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/ratiifaa/status/2114670422128753954
 --> [1]Ratifa menjalankan: Watch Anime
-[1]Ratifa      |09:36:04 | 25-10-2026| watch: semua video sudah completed
+[1]Ratifa      |10:49:17 | 26-10-2026| watch: semua video sudah completed
 --> [1]Ratifa menjalankan: Read Article
-[1]Ratifa      |09:36:06 | 25-10-2026| news: 30/30 artikel selesai dibaca
-[1]Ratifa      |09:36:06 | 25-10-2026| mint eligibility: {"userId":"1748188733789360128","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratifaranisa","status":"submitted","revision":"2ffd9848-36c7-4331-8e9e-dc4a24e6f
-[1]Ratifa      |09:36:06 | 25-10-2026| news: semua artikel sudah dibaca
+[1]Ratifa      |10:49:19 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Ratifa      |10:49:19 | 26-10-2026| mint eligibility: {"userId":"1748188733789360128","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratifaranisa","status":"submitted","revision":"2ffd9848-36c7-4331-8e9e-dc4a24e6f
+[1]Ratifa      |10:49:19 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Ratifa menjalankan: Quiz Anime
 --> [1]Ratifa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ratifa      |09:36:08 | 25-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ratifa      |09:36:09 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratifa      |09:36:09 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratifa      |09:36:09 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratifa      |10:49:22 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ratifa      |10:49:22 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratifa      |10:49:22 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratifa      |10:49:22 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratifa menjalankan: Claim Missions
-[1]Ratifa      |09:36:09 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratifa      |09:36:09 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratifa      |09:36:09 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratifa      |10:49:23 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratifa      |10:49:23 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratifa      |10:49:23 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratifa menjalankan: Check Eligibility
 
 --- eligibility [1]Ratifa ---
-  @ratiifaa | score=2050 rank=3825
-  tasks    [--------------------] 0/1
+  @ratiifaa | score=2070 rank=3819
+  tasks    [##------------------] 1/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,14 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ratifa menjalankan: Read Manga
-[1]Ratifa      |09:36:12 | 25-10-2026| manga: 0/13 chapter belum completed
+[1]Ratifa      |10:49:27 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ratifa menjalankan: Get Gift
-[1]Ratifa      |09:36:13 | 25-10-2026| gift: 0/4 belum diterima
+[1]Ratifa      |10:49:28 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Ratifa menjalankan: Setup Profile
-[1]Ratifa      |09:36:13 | 25-10-2026| profile: bio="https://x.com/ratiifaa" fav=mony rewardAt=1791689911
-[1]Ratifa      |09:36:13 | 25-10-2026| profile: bonus sudah diklaim, skip
+[1]Ratifa      |10:49:28 | 26-10-2026| profile: bio="https://x.com/ratiifaa" fav=mony rewardAt=1791689911
+[1]Ratifa      |10:49:28 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ratifa menjalankan: Bind Wallet
-[1]Ratifa      |09:36:13 | 25-10-2026| wallet: sudah terikat 3oTPxHc22h... (solana)
+[1]Ratifa      |10:49:29 | 26-10-2026| wallet: sudah terikat 3oTPxHc22h... (solana)
 
 == RINGKASAN ==
-- Ratifa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ratifa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
